@@ -22,3 +22,5 @@ Projeto desenvolvido durante a **Aceleração AI Reports**.
 
 ## 👩‍💻 Autora
 * **Taila Costa** — *Análise de Dados, IA Generativa & Automações*
+
+[![Compartilhar no LinkedIn](https://img.shields.io/badge/Compartilhar_no-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://tailacosta-ai.github.io/Dashboard_porsche_sales/)
